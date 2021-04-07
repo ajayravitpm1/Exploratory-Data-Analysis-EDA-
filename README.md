@@ -20,3 +20,10 @@ a)Skewness
 
 4.Fourth moment business decision
 a)Kurtosis
+
+EDA Part-2
+Visualization of data
+
+1.Histogram
+2.Barplot
+3.Boxplot
