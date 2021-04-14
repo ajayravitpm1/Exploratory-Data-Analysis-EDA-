@@ -27,3 +27,5 @@ Visualization of data
 1.Histogram
 2.Barplot
 3.Boxplot
+
+Uploaded csv dataset containing salary and years of experience of employees. Let's perform EDA on this.
